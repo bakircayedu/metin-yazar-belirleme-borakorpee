@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\MetinYazariBelirleme.exe.config
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\MetinYazariBelirleme.exe
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\bin\Debug\MetinYazariBelirleme.pdb
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.Form1.resources
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.Properties.Resources.resources
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.GenerateResource.cache
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.exe
+C:\Users\User\source\repos\quiz\MetinYazariBelirleme\MetinYazariBelirleme\MetinYazariBelirleme\obj\Debug\MetinYazariBelirleme.pdb
